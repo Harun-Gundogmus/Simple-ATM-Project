@@ -1,0 +1,104 @@
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.exe
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.deps.json
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.pdb
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.AnaEkran.resources
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.ParaYatirma.resources
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\refint\BankamatikOtomasyonu.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.pdb
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\ref\BankamatikOtomasyonu.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.CopyComplete
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.BakiyeOgrenme.resources
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.KrediKartiBorcu.resources
+C:\Users\HUAWEI\source\repos\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.ParaCekme.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.exe
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.deps.json
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\BankamatikOtomasyonu.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.AnaEkran.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.BakiyeOgrenme.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.KrediKartiBorcu.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.ParaCekme.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.ParaYatirma.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.csproj.CopyComplete
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\refint\BankamatikOtomasyonu.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\BankamatikOtomasyonu.genruntimeconfig.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\net6.0-windows\ref\BankamatikOtomasyonu.dll
